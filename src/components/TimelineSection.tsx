@@ -8,35 +8,35 @@ const TimelineSection = () => {
     {
       date: "Primeiro Encontro",
       title: "O Despertar dos Caminhos",
-      description: "Quando nossos olhares se cruzaram, o universo sussurrou segredos antigos.",
+      description: "Nesse caso, nosso primeiro encontro ja faz mais de um ano, e relembrando cada momento desse enquanto escrevo essa 'linha do tempo' me tras lembranças de muitos sentimentos bons, MESMO VOCE CHEGANDO ATRASADA, quem diria, que ter te conhecido ali, ver um filme ruim de piscina assassina OKASOKDOSADOPASK, foi e esta sendo um dos marcos mais importantes da minha vida.",
       symbol: "✦",
       position: "left"
     },
     {
       date: "Primeira Conversa",
-      title: "As Palavras como Encantamentos",
-      description: "Cada palavra trocada tecia fios dourados entre nossas almas.",
+      title: "As Palavras",
+      description: "Esse eu não tenho taaanta coisa a dissertar sobre, pois nessa questão fluiu de forma bem linear e suave, nunca falei muito sobre isso, mas voce chegou em um momento que eu estava bem descontente com as coisas, apesar de nesses dias iniciais a gente ter acabado de se conhecer e pa, ctg eu sentia uma intimidade absurda, se conhecendo a uns 10 dias, pra me ja parecia intimo, talvez por desde que vi voce, algo sempre perpetuou na minha cabeça que eu ja te vi antes, e ate hoje esporadicamente eu paro pra pensar, 'porra, de onde sera que eu te conheço'.",
       symbol: "☾",
       position: "right"
     },
     {
       date: "Primeiro Beijo",
-      title: "O Selo do Destino",
-      description: "Sob a proteção dos astros, selamos nossa união com o primeiro beijo.",
+      title: "O Selo",
+      description: "Naquela rodoviaria de nova iguaçu cheirando a mijooooo, acho engraçado tbm o fato de voce sempre falar se não fosse voce eu não teria te beijado, tu apenas roubou minha cena, nosso beijo era inevitavel amor, lembro tbm de cada detalhe sobre esse dia.",
       symbol: "♦",
       position: "left"
     },
     {
       date: "Primeiro 'Eu Te Amo'",
       title: "O Encantamento Supremo",
-      description: "As três palavras mais poderosas ecoaram entre os planos visível e invisível.",
+      description: "Esse pra mim é uma grande conquista, anteriormente a isso, esta em São Paulo, longe de vc, foi uma grande luta de incertezas para todos os lados, principalmente por acha que ali seria o ponto onde cada um iria seguir sua vida, ou o famoso 'e se não der certo' eu ja sabia que te amava, mas ainda as coisas não estavam tão claras, desde sempre, mesmo sem namoro. ficar afastado de ti sempre foi uma tarefa complicada, e pelo alto esforço de ambos deu tudo certo, tudo caminhou como deveria ser, então saber que o amor era reciproco, foi um grande alivio, naquele piquenique que marcamos desde bem antes de eu voltar pra vc, saber que voce me amava e poder dizer o mesmo, foi um alivio enorme, mesmo voce bebona toda molenga.",
       symbol: "◇",
       position: "right"
     },
     {
       date: "Hoje",
       title: "Um Ciclo Completo",
-      description: "365 dias de magia, proteção e amor sob o olhar dos guardiões.",
+      description: "365 dias, e hoje continuamos a seguir nesses mesmo principios. poderia escrever o dia inteiro tudo sobre a gente,mas para não se estender muito vamos para proxima pagina.",
       symbol: "✧",
       position: "left"
     }

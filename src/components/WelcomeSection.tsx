@@ -30,8 +30,8 @@ const WelcomeSection = () => {
           <div className="h-px bg-gradient-to-r from-transparent via-mystical-gold to-transparent w-1/2 sm:w-1/3 mx-auto"></div>
 
           <div className="text-mystical-gold/70 font-mystical text-base sm:text-lg animate-fade-in-up px-4" style={{ animationDelay: '1s' }}>
-            <p className="mb-2">✦ Um Ano de Magia ✦</p>
-            <p className="text-sm sm:text-base">Entre o visível e o invisível, nossa história se escreve</p>
+            <p className="mb-2">✦ Um Ano ✦</p>
+            <p className="text-sm sm:text-base">Entre o visível e o invisível, nossa história se escreve.</p>
           </div>
         </div>
 

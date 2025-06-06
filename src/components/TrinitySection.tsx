@@ -11,7 +11,7 @@ const TrinitySection = () => {
       description: "Sallos, grande duque dos infernos, governa 30 legiões e é conhecido por promover o amor entre homem e mulher. Ele fortalece os laços românticos e protege contra a separação.",
       symbol: "/lovable-uploads/02791158-6d36-40af-a117-d5120769c348.png",
       isImage: true,
-      element: "Fogo",
+      element: ". A água é o elemento mais comumente associado ao amor, emoções e relacionamentos",
       protection: "Amor Duradouro",
       color: "text-mystical-crimson"
     },
@@ -21,18 +21,18 @@ const TrinitySection = () => {
       description: "Amon, marquês poderoso, comanda 40 legiões e revela o passado e o futuro. Ele fortalece a amizade e reconcilia inimigos, trazendo harmonia aos relacionamentos.",
       symbol: "/lovable-uploads/889a7366-6e79-4320-8b95-298c0243f604.png",
       isImage: true,
-      element: "Ar",
+      element: ". Amon é mais comumente associado ao elemento Fogo, tanto por sua iconografia quanto por sua natureza energética e emocionalmente intensa.",
       protection: "Verdade e Harmonia",
       color: "text-mystical-gold"
     },
     {
       name: "Andras",
-      title: "O Guardião da Paixão",
+      title: "O Instigador do Caos",
       description: "Andras, grande marquês, lidera 30 legiões e semeia discórdia entre inimigos enquanto protege aqueles que o honram. Ele intensifica a paixão e remove obstáculos do amor.",
       symbol: "/lovable-uploads/87c1b9af-7e6e-4806-8f3f-68b81f518799.png",
       isImage: true,
-      element: "Terra",
-      protection: "Paixão Protegida",
+      element: ". comumente associado ao Fogo, por sua natureza destrutiva, violenta e caótica.",
+      protection: "conflito",
       color: "text-mystical-wine"
     }
   ];
@@ -44,7 +44,7 @@ const TrinitySection = () => {
           <h2 className="font-gothic text-3xl sm:text-4xl md:text-5xl text-mystical-gold mb-4">A Trindade da Proteção</h2>
           <div className="h-px bg-gradient-to-r from-transparent via-mystical-gold to-transparent w-2/3 sm:w-1/2 mx-auto mb-6"></div>
           <p className="font-mystical text-lg sm:text-xl text-mystical-gold/80 max-w-3xl mx-auto px-4">
-            Três grandes daemons escolhidos para abençoar e proteger nossa união sagrada
+            Sua trindade de daemons escolhidos para abençoar e proteger nossa união eternamente
           </p>
         </div>
 

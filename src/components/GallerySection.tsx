@@ -9,38 +9,38 @@ const GallerySection = () => {
     {
       id: 1,
       title: "Primeiros Momentos",
-      description: "Quando tudo começou sob a luz das estrelas",
-      src: "https://images.unsplash.com/photo-1470813740244-df37b8c1edcb?w=400&h=400&fit=crop",
+      description: "Quando tudo começou",
+      src: "/lovable-uploads/primeiro.jpg",
     },
     {
       id: 2,
-      title: "Caminhadas Místicas",
-      description: "Explorando os caminhos secretos da natureza",
-      src: "https://images.unsplash.com/photo-1472396961693-142e6e269027?w=400&h=400&fit=crop",
+      title: "Admiração",
+      description: "Cada detalhe de seu ser",
+      src: "/lovable-uploads/caminhada.jpg",
     },
     {
       id: 3,
       title: "Luzes da Alma",
-      description: "Momentos iluminados pelo amor",
-      src: "https://images.unsplash.com/photo-1500673922987-e212871fec22?w=400&h=400&fit=crop",
+      description: "yin-yang",
+      src: "/lovable-uploads/alma.jpg",
     },
     {
       id: 4,
-      title: "Conexões Profundas",
-      description: "Quando duas almas se encontram no infinito",
-      src: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&h=400&fit=crop",
+      title: "Conexões",
+      description: "Um só",
+      src: "/lovable-uploads/conexao.jpg",
     },
     {
       id: 5,
-      title: "Rituais de Amor",
-      description: "Celebrando nossa união sagrada",
-      src: "https://images.unsplash.com/photo-1470813740244-df37b8c1edcb?w=400&h=400&fit=crop",
+      title: "Amor",
+      description: "Celebrando juntos",
+      src: "/lovable-uploads/ritual.jpg",
     },
     {
       id: 6,
       title: "Eternidade",
-      description: "Um amor que transcende o tempo",
-      src: "https://images.unsplash.com/photo-1500673922987-e212871fec22?w=400&h=400&fit=crop",
+      description: "A noite mais longa da minha vida",
+      src: "/lovable-uploads/eternidade.jpg",
     }
   ];
 

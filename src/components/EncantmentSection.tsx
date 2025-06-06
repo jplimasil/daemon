@@ -1,4 +1,3 @@
-
 const EncantmentSection = () => {
   return (
     <section className="min-h-screen flex items-center justify-center relative py-20 sm:py-24">
@@ -77,6 +76,19 @@ const EncantmentSection = () => {
               <p className="font-gothic text-mystical-gold text-lg sm:text-xl">
                 Um Ano de Magia ✦ 2024
               </p>
+            </div>
+
+            {/* Botão Nosso Jardim */}
+            <div className="mt-8 sm:mt-12">
+              <a 
+                href="https://jardim.com" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="inline-block px-8 py-3 font-gothic text-lg sm:text-xl text-mystical-gold border-2 border-mystical-gold rounded-lg hover:bg-mystical-gold/10 transition-all duration-300 transform hover:scale-105 animate-fade-in-up"
+                style={{ animationDelay: '1.5s' }}
+              >
+                Nosso Jardim ✧
+              </a>
             </div>
           </div>
         </div>

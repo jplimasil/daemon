@@ -4,18 +4,21 @@ import { useState } from 'react';
 const LetterSection = () => {
   const [isOpened, setIsOpened] = useState(false);
 
-  const letterContent = `Minha Querida,
+  const letterContent = `Eu te amo igual Galileu amou as estrelas
 
-Em um ano de nossa união, observei como o destino entrelaçou nossos caminhos de maneira que apenas os antigos mistérios poderiam orquestrar. Cada dia ao seu lado tem sido uma descoberta, uma página nova em nosso grimório pessoal de amor e cumplicidade.
+Eu te amo igual Johannes Kepler amou as órbitas...
 
-Você trouxe luz onde antes havia apenas sombras, transformou rituais solitários em celebrações compartilhadas. Sua risada ecoa pelos corredores de minha alma como um encantamento benevolente, e seus olhos guardam segredos que apenas eu tenho o privilégio de decifrar.
+Eu te amo igual Narciso amou seu reflexo
 
-Nos momentos de silêncio, quando contemplamos as estrelas juntos, sinto a presença dos guardiões que escolhemos para proteger nossa união. Sallos abençoa nosso amor com durabilidade, Amon nos revela verdades que fortalecem nossa conexão, e Andras alimenta a paixão que queima eternamente entre nós.
+Eu te amo igual Asteria amou o céu noturno
 
-Que este seja apenas o primeiro ciclo de muitos que virão. Que nossa história continue sendo escrita com tinta dourada nos pergaminhos do tempo, sob a proteção daqueles que habitam além do véu.
+Eu te amo igual John Dee amou os Anjos
 
-Com todo meu amor e devoção,
-Seu eterno companheiro de jornada ✦`;
+Eu te amo igual Giordano Bruno amou o infinito
+
+Eu te amo igual Eliphas Levi amou o Baphomet.
+
+Seu eterno companheiro`;
 
   return (
     <section className="min-h-screen py-20 sm:py-24 flex items-center justify-center relative">
@@ -80,9 +83,9 @@ Seu eterno companheiro de jornada ✦`;
               <div className="bg-gradient-to-br from-amber-50 to-amber-100 p-6 sm:p-8 rounded-lg shadow-2xl border-2 border-mystical-gold/50">
                 {/* Letter header */}
                 <div className="text-center mb-6 sm:mb-8">
-                  <div className="font-gothic text-mystical-black text-2xl sm:text-3xl mb-4">Carta do Coração</div>
+                  <div className="font-gothic text-mystical-black text-2xl sm:text-3xl mb-4">Carta</div>
                   <div className="h-px bg-gradient-to-r from-transparent via-mystical-gold to-transparent mb-4"></div>
-                  <div className="text-mystical-gold text-base sm:text-lg">✦ Sob a Proteção dos Guardiões ✦</div>
+                  <div className="text-mystical-gold text-base sm:text-lg">Sob a Proteção</div>
                 </div>
 
                 {/* Letter content - mobile optimized */}
