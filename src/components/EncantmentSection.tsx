@@ -74,7 +74,7 @@ const EncantmentSection = () => {
                 Em celebração ao primeiro ciclo completo
               </p>
               <p className="font-gothic text-mystical-gold text-lg sm:text-xl">
-                Um Ano de Magia ✦ 2024
+                Um Ano ✦ 2025
               </p>
             </div>
 
